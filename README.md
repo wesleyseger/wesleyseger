@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">I'm Wesley, a full-stack developer and I absolutely love what I do. <br>I have my own company where I cater to clients such as internet providers, offices, and national associations, specializing in website development, integrations, and systems.</p>
+<p align="left">I'm Wesley, a full-stack developer and I absolutely love what I do. <br>I have my own company with clients such as internet providers, offices, and national associations, specializing in website development, integrations, and systems.</p>
 
 ###
 
